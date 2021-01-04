@@ -68,6 +68,8 @@ MIT
 
 @fireflysemantics/documentation
 
+@fireflysemantics/image
+
 @fireflysemantics/join
 MIT
 MIT License
