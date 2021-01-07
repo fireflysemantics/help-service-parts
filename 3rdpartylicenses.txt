@@ -68,6 +68,8 @@ MIT
 
 @fireflysemantics/documentation
 
+@fireflysemantics/documentation-module
+
 @fireflysemantics/image
 
 @fireflysemantics/material
